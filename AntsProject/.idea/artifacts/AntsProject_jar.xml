@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntsProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AntsProject_jar</output-path>
+    <root id="archive" name="AntsProject.jar">
+      <element id="module-output" name="AntsProject" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
